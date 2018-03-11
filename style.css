@@ -1,0 +1,54 @@
+body {
+    margin: 100px;
+    font-family: "Arial", Monospace;
+    font-size: 14px;
+    background-image: url("https://scontent.fmnl4-3.fna.fbcdn.net/v/t31.0-8/28947074_10211815823052819_8765283015570527227_o.jpg?_nc_eui2=v1%3AAeGbSCbkwfvaGSJT48weoEDmK2YXZm8320EGULkIrq6m9Wm2-dDgy5eim0Yu_eEzDupjluY4nSvb1-B408lY6nQk6c8rV1LHTwTnj2bVAP_x6Q&oh=5c267b32736cd73cd2b992c7b503f26d&oe=5B3C1343");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    font-family: "Arial", Monospace;
+    padding-bottom: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+header h1 {
+    font-size: 10pt;
+    letter-spacing: 2pt;
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+}
+
+header span {
+    font-size: 10pt;
+    float: right;
+}
+
+header h2 {
+    font-family: "Arial", Monospace;
+    font-size: 10t;
+}
+
+header h3 {
+    font-family: "Arial", Monospace;
+    font-size: 10pt;
+}   
+    
+section p {
+    font-size: 10pt;
+    margin-left: 23px;
+}
+
+section ul {
+    list-style-type: circle;
+}
+
+section ol {
+    list-style-type: circle;
+}
